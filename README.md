@@ -45,7 +45,8 @@ Tudo baseado em **teorias sólidas** da Terapia Cognitivo-Comportamental (CBT) e
 
 ## 📋 Ficheiros
 
-- `Mindfulness e CBT.pdf`: Manual completo para download e utilização pessoal (inclui plano semanal, no fim)
+- `Mindfulness e CBT.pdf`e `Mindfulness e CBT.docx`: Manual completo para download e utilização pessoal (inclui plano semanal, no fim, que também é disponibilizado num documento separado).
+- `Quadro de Prática Mindfulness.pdf` / `Quadro de Prática Mindfulness.docx`: Plano semanal de prática complementar para integração diária das competências trabalhadas no manual.
 
 ---
 
