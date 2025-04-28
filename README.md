@@ -10,7 +10,7 @@
 
 Este manual é um guia prático e motivador para quem quer desenvolver:
 - **Competências de relaxamento e mindfulness** 🧘‍♂️,
-- **Habilidades cognitivas** para transformar pensamentos negativos 💬,
+- **Capacidades cognitivas** para transformar pensamentos negativos 💬,
 - **Técnicas de comunicação e gestão de conflitos** 🤝,
 - **Gestão do tempo e organização pessoal** ⏳,
 - **Resiliência emocional e exposição a emoções difíceis** 💪,
